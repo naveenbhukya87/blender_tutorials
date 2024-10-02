@@ -121,6 +121,12 @@
         - select the objects which you want to join and press ```ctrl + j ```.
         - in the below image: I have selected and hat and suzanne in right side and pressed ```ctrl + j``` and result is like the left side image.
         ![joining objects](image-1.png)
+    - **selection order**:
+        - Which object I have selected first is called **active object**.
+        - Next objects are selected objects.
+        - When these selected objects are joined, then always origin is with reference to active object only.
+    - **shading**:
+        - to remove facets, select the object and right click and click shade smooth.
     
 
 
